@@ -20,7 +20,7 @@ const App = () => {
     return (
         <>
             <div className='container'>
-                <Tasks tasks={tasks}/> 
+                <Tasks tasks={tasks} /> 
             </div>;
         </>
     );
