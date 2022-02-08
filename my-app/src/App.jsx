@@ -17,7 +17,7 @@ const App = () => {
         id: '2',
         title: 'Ler Livros',
         completed: true,
-      }, // teste
+      },
     ]);
 
     const handleTaskClick = (taskId) => {
